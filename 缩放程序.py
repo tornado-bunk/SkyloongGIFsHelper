@@ -55,3 +55,6 @@ for file_name in os.listdir(current_dir):
         gif_path = os.path.join(current_dir, file_name)
         print(f"正在处理: {gif_path}")
         resize_gif(gif_path, target_size)
+
+# 等待用户按任意键后退出
+input("处理完毕，按任意键退出...")
