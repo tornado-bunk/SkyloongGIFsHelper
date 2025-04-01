@@ -1,4 +1,4 @@
-[中文版](README.md) | [English Version](README_eng.md)
+[中文版](README.md) | [English](README_eng.md)
 
 GIF裁剪器 用户帮助文档
 
